@@ -1,0 +1,1 @@
+picostatCont = {"data":[["Baiting","Nonbaiting"],["June--September","8","4"],["October--May","2","7"],[]], "longest_row":3, "is_cont_table":"1","dataset_fid":"1879"};

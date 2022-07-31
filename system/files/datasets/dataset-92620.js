@@ -1,0 +1,1 @@
+picostatCont = {"data":[["Kerala","Gujarat","Andhra"],["Buccal mucosa","8","1","8"],["Commissure","0","1","0"],["Gingiva","0","1","0"],["Hard palate","0","1","0"],["Soft palate","0","1","0"],["Tongue","0","1","0"],["Floor of mouth","1","0","1"],["Alveolar ridge","1","0","1"],[]], "longest_row":4, "is_cont_table":"1","dataset_fid":"1862"};

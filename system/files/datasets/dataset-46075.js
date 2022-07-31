@@ -1,0 +1,1 @@
+picostatCont = {"data":[["Drug","Effective","NotEffective","Patients"],["THC","36","43","79"],["Prochlorperazine","16","62","78"],[]], "longest_row":4, "is_cont_table":"0","dataset_fid":"2057"};

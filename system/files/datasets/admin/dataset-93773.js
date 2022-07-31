@@ -1,0 +1,1 @@
+picostatCont = {"data":[["Time","demand"],["1","8.3"],["2","10.3"],["3","19"],["4","16"],["5","15.6"],["7","19.8"],[]], "longest_row":2, "is_cont_table":"","dataset_fid":"131"};

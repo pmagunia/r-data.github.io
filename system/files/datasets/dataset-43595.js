@@ -1,0 +1,1 @@
+picostatCont = {"data":[["nDeaths","Freq"],["0","109"],["1","65"],["2","22"],["3","3"],["4","1"],[]], "longest_row":2, "is_cont_table":"0","dataset_fid":"2171"};

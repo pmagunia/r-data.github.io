@@ -1,0 +1,1 @@
+picostatCont = {"data":[["fair","red","medium","dark","black"],["blue","326","38","241","110","3"],["light","688","116","584","188","4"],["medium","343","84","909","412","26"],["dark","98","48","403","681","85"],[]], "longest_row":6, "is_cont_table":"1","dataset_fid":"1946"};

@@ -1,0 +1,18 @@
+picostatCont = {"data":[
+["station","dist","travel_time"],
+["Tacoma",40,57],
+["Olympia",32,46],
+["Centralia",43,23],
+["Kelso",39,46],
+["Vancouver",10,43],
+["Portland",53,20],
+["Salem",28,110],
+["Albany",43,32],
+["Eugene",195,49],
+["Sacramento",84,177],
+["Emeryville",113,120],
+["Salinas",352,211],
+["SantaBarbara",252,376],
+["LosAngeles",103,168],
+["Chico",95,326],
+["KlamathFalls",237,258]], "longest_row":3, "is_cont_table":"0","dataset_fid":"4956"};

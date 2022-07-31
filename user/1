@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ og: http://ogp.me/ns# rdfs: http://www.w3.org/2000/01/rdf-schema# schema: http://schema.org/ sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#">
+<head>
+  <meta charset="utf-8">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/brands.min.css" type="text/css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/solid.min.css" integrity="sha512-QN7X/bUbbeel9bbq6JVNJXk1Zowt+n+QPN+DjhEmTa4TdL1YPCsCey5JrvfRW8xp28LDYgGG/waNVdrhwMQmVQ==" crossorigin="anonymous">
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-47026657-32"></script>
+  <script>
+  window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments)};gtag("js", new Date());gtag("config", "UA-47026657-32", {"groups":"default","link_attribution":true,"allow_ad_personalization_signals":false});
+  </script>
+  <script src="../sites/www.picostat.com/files/hotjar/hotjar.script.js?qo6o68"></script>
+  <meta name="description" content="Picostat">
+  <meta name="Generator" content="Drupal 9 (https://www.drupal.org)">
+  <meta name="MobileOptimized" content="width">
+  <meta name="HandheldFriendly" content="true">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta about="/user/1" property="schema:name" content="pmagunia" lang="">
+  <link rel="shortcut icon" href="../sites/www.picostat.com/files/favicon.ico" type="image/vnd.microsoft.icon">
+  <title>pmagunia | Picostat</title>
+  <link rel="stylesheet" media="all" href="../sites/www.picostat.com/files/css/css_DGBV_RAh210aNv7ygMp-EyJstxiOdmupWLS2eOJjcsM.css">
+  <link rel="stylesheet" media="all" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+  <link rel="stylesheet" media="all" href="https://fonts.googleapis.com/css?family=Open+Sans">
+  <link rel="stylesheet" media="all" href="../sites/www.picostat.com/files/css/css_WeU71cXWz77ALBBOQ75K3ErzIZ5YslS5fRDG2KxbMaM.css">
+  <link rel="stylesheet" media="all" href="../sites/www.picostat.com/files/css/css_X6w7LQrGVKB8yit0fgJOGRbWqmaq4YbX4Okgchooyyk.css">
+</head>
+<body class="user-view path-user">
+  <a href="1#main-content" class="visually-hidden focusable skip-link">Skip to main content</a>
+  <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas="">
+    <header class="content-header clearfix">
+      <div class="layout-container">
+        <div class="region region-header">
+          <div id="block-slogan" class="block block-block-content block-block-contentb37daeb6-14e3-47bd-9fc8-af32ea9b98bc">
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item">
+              <div class="tex2jax_process">
+                <h1><a href="../dash">R-DATA</a></h1>
+              </div>
+            </div>
+          </div>
+          <div id="block-seven-primary-local-tasks" class="block block-core block-local-tasks-block">
+            <nav class="tabs" role="navigation" aria-label="Tabs">
+              <h2 id="primary-tabs-title" class="visually-hidden">Primary tabs</h2>
+              <nav role="navigation" class="is-horizontal is-collapsible" aria-labelledby="primary-tabs-title" data-drupal-nav-tabs="">
+                <button class="reset-appearance tabs__tab tabs__trigger" aria-label="Primary tabs display toggle" data-drupal-nav-tabs-trigger="">•••</button>
+                <ul class="tabs primary clearfix" data-drupal-nav-tabs-target="">
+                  <li class="tabs__tab">
+                    <a href="../dash" title="Home" class="picostat-menu-icon fa-home">Home</a>
+                  </li>
+                  <li class="tabs__tab">
+                    <a href="https://pmagunia.com" title="Root" class="picostat-menu-icon fa-square-root">Root</a>
+                  </li>
+                </ul>
+              </nav>
+            </nav>
+          </div>
+        </div>
+      </div>
+    </header>
+    <div class="layout-container">
+      <div class="region region-pre-content"></div>
+      <main class="page-content clearfix" role="main">
+        <div class="visually-hidden">
+          <a id="main-content" tabindex="-1"></a>
+        </div>
+        <div class="region region-highlighted">
+          <div data-drupal-messages-fallback="" class="hidden"></div>
+        </div>
+        <div class="region region-content">
+          <div id="block-seven-page-title" class="block block-core block-page-title-block">
+            <h1 class="page-title">pmagunia</h1>
+          </div>
+          <div id="block-seven-content" class="block block-system block-system-main-block">
+            <article typeof="schema:Person" about="/user/1" class="profile">
+              <div class="field field--name-user-picture field--type-image field--label-visually_hidden">
+                <div class="field__label visually-hidden">
+                  Picture
+                </div>
+                <div class="field__item"><img src="../sites/www.picostat.com/files/styles/large/public/pictures/2021-02/5D80E2FE-C7D7-4EBB-A447-4655C9A5FED6.jpeg?itok=JBHnYBKh" width="480" height="320" alt="Profile picture for user pmagunia" loading="lazy" typeof="foaf:Image" class="image-style-large"></div>
+              </div>
+              <div class="field field--name-field-user-bio field--type-string-long field--label-visually_hidden">
+                <div class="field__label visually-hidden">
+                  Biography
+                </div>
+                <div class="field__item">
+                  Hi, my name is Parag, and I live in the Philly suburbs of Pennsylvania.<br>
+                  <br>
+                  Let me give a short history of how this site came about. I had the pleasure of having Mr. Sally (https://en.wikipedia.org/wiki/Paul_Sally) as a calculus professor. This influenced my decision to study math in college; I majored in math at Fairmont State University. After graduating, I was faced with a decision to continue studying math at the graduate level or alter my course. I wasn't finding the career opportunities I was hoping for, so I switched over to statistics at West Virginia University where I completed a master of science in statistics. As a hobby, I picked up computer programming in the summer of 2007. My first domain was purchased and hosted at Yahoo. I was then at Pair Networks for awhile until finally switching over to AWS in 2012. I now work as a freelance Drupal programmer, but still love statistics. Picostat is my quest to combine the two.<br>
+                  <br>
+                  One of my finest work was done for the New York Genealogical and Biographical Society who I am still contracted with. I created a geographic mapping application that displayed record locations at various places of interest on the New York state map. The records were articles relating to New York family history that users could search and pinpoint the location of. The site was created with Drupal and relied heavily on such modules as taxonomy, gmap, views, and many others. The society was kind of to mention my name on the application homepage found here: https://labs.newyorkfamilyhistory.org/record-map-search.
+                </div>
+              </div>
+              <div class="field field--name-field-user-link field--type-link field--label-visually_hidden">
+                <div class="field__label visually-hidden">
+                  Homepage
+                </div>
+                <div class="field__item">
+                  <a href="https://pmagunia.com">https://pmagunia.com</a>
+                </div>
+              </div>
+            </article>
+          </div>
+        </div>
+      </main>
+    </div>
+  </div>
+  <script type="application/json" data-drupal-selector="drupal-settings-json">
+  {"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"","currentPath":"user\/1","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"ga":{"commands":[["create","UA-47026657-32","auto",{"forceSSL":true}],["require","linkid"],["require","displayfeatures"],["send","pageview"]]},"google_analytics":{"account":"UA-47026657-32","trackOutbound":true,"trackMailto":true,"trackDownload":true,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"googleAnalyticsEt":[{"selector":".block-blocktabs li","event":"click","category":"Blocktab Navigation","action":"Click","label":"Blocktab Navigation","value":1,"noninteraction":false}],"mathjax":{"config_type":1,"config":{"tex2jax":{"inlineMath":[["$","$"],["\\(","\\)"]],"processEscapes":"true"},"showProcessingMessages":"false","messageStyle":"none","displayAlign":"left"}},"user":{"uid":0,"permissionsHash":"a9bf1467e0595dcd72966c6eaf4b007217cf099d9433bb3fc32d224d0033f7e1"}}
+  </script> 
+  <script src="../sites/www.picostat.com/files/js/js_bAz759ZC1SYtq8JGLqoYGnWMvGXt_QnPcrPgHO7Nccg.js"></script> 
+  <script src="https://www.google-analytics.com/analytics.js" async></script> 
+  <script src="../sites/www.picostat.com/files/js/js_1Ou30V4v-g2SGOYbwJHHcYa-l93033sQ1fzFmcpUjtg.js"></script> 
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script> 
+  <script src="../sites/www.picostat.com/files/js/js_2RPYcLOEEWFaecH3bnolbJMNUMI5ilUCg7oRfm4zSxs.js"></script>
+</body>
+</html>

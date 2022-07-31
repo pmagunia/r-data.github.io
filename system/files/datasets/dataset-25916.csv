@@ -1,0 +1,13 @@
+"Subject","Drug","TapRate"
+"I","Placebo",11
+"II","Placebo",56
+"III","Placebo",15
+"IV","Placebo",6
+"I","Caffeine",26
+"II","Caffeine",83
+"III","Caffeine",34
+"IV","Caffeine",13
+"I","Theobromine",20
+"II","Theobromine",71
+"III","Theobromine",41
+"IV","Theobromine",32

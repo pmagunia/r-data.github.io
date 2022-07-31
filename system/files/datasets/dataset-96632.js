@@ -1,0 +1,1 @@
+picostatCont = {"data":[["x","y"],["Quito","0","51"],["Capehope","0.2987","337"],["Rome","0.4648","279"],["Paris","0.5762","374"],["Lapland","0.8386","722"],[]], "longest_row":3, "is_cont_table":"1","dataset_fid":"2028"};

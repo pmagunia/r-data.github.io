@@ -1,0 +1,1 @@
+picostatCont = {"data":[["WgtGain","Antibiotic","B12"],["30","No","No"],["8","No","No"],["19","No","No"],["5","Yes","No"],["0","Yes","No"],["4","Yes","No"],["26","No","Yes"],["21","No","Yes"],["19","No","Yes"],["52","Yes","Yes"],["56","Yes","Yes"],["54","Yes","Yes"],[]], "longest_row":3, "is_cont_table":"0","dataset_fid":"2122"};

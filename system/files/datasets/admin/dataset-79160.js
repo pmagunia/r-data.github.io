@@ -1,0 +1,1 @@
+picostatCont = {"data":[["LIBERAL","CONSERVATIVE"],["F","762","468"],["M","484","477"],[]], "longest_row":3, "is_cont_table":"1","dataset_fid":"662"};

@@ -1,0 +1,1 @@
+picostatCont = {"data":[["Never Fun","Fairly Often","Very Often","Always fun"],["Never Fun","7","7","2","3"],["Fairly Often","2","8","3","7"],["Very Often","1","5","4","9"],["Always fun","2","8","9","14"],[]], "longest_row":5, "is_cont_table":"1","dataset_fid":"2182"};

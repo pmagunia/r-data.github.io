@@ -1,0 +1,71 @@
+<html>
+<head>
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-47026657-32"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-47026657-32');
+  </script>
+  <style>
+     #iframe {
+       display: none;
+     }
+
+    body {
+      margin:0;
+    }
+
+    #description {
+    position: fixed;
+    bottom: 30px;
+    right: 30px;
+    width: 9em;
+    background: beige;
+    border: solid 1px gray;
+    z-index: 1000;
+  }
+
+  #description p {
+    padding-left: 0.5em;
+    text-decoration: none;
+    font-family: Verdana;
+    font-size:10px;
+  }
+    #description a {
+      text-decoration: none;
+    }
+    #loader {
+      border: 16px solid #f3f3f3; /* Light grey */
+      border-top: 16px solid #3498db; /* Blue */
+      border-radius: 50%;
+      width: 120px;
+      height: 120px;
+      animation: spin 2s linear infinite;
+      position: fixed;
+      left: 45%;
+      top: 34%;
+      transform: translate(-50%, -50%);
+    }
+
+    @keyframes spin {
+      0% { transform: rotate(0deg); }
+      100% { transform: rotate(360deg); }
+    }
+  </style>
+</head>
+<body>
+<div id="description">
+  <p>Grid powered by <a target="_blank" href="https://r-data.pmagunia.com">R-Data</a>.</p>
+</div>
+<div id="iframe">
+  <iframe width="100%" height="100%" src="https://r-data.pmagunia.com/dataset/r-dataset-package-daag-progression" frameBorder="0" onload="onMyFrameLoad(this)"></iframe>
+</div>
+<script type="text/javascript">
+  function onMyFrameLoad() {
+    document.getElementById("iframe").style.display = 'block';
+  };
+  </script>
+</body>
+</html>

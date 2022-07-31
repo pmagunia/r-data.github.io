@@ -1,0 +1,1 @@
+picostatCont = {"data":[["2-9","10-19","20+"],["Regular","43","16","3"],["Less than monthly","6","11","10"],["Never","9","18","16"],[]], "longest_row":4, "is_cont_table":"1","dataset_fid":"2172"};

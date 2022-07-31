@@ -1,0 +1,1 @@
+picostatCont = {"data":[["MatchIt","http...gking.harvard.edu.matchit"],["matchit","http:\/\/gking.harvard.edu\/matchit\/docs\/_TT_matchit_TT__Implem.html"],["match.data","http:\/\/gking.harvard.edu\/matchit\/docs\/_TT_match_data_TT__Ext.html"],[]], "longest_row":2, "is_cont_table":"0","dataset_fid":"1629"};
